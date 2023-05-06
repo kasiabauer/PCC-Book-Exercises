@@ -1,0 +1,2 @@
+transportation = ['samolot Boeing', 'gokart', 'motocykl typu lowrider']
+print(f'Na wakacje najbardziej lubię podróżować {transportation[0]}. Dla zabawy chętnie jeżdżę {transportation[1]}. Zawsze chciałam przemieszczać się {transportation[2]}.')

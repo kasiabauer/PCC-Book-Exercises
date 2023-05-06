@@ -1,0 +1,32 @@
+name = 'jan kowalski'
+print(name.title())
+print(name.upper())
+print(name.lower())
+first_name = 'janina'
+last_name = 'kowalska'
+full_name = f'{first_name} {last_name}'
+print(full_name)
+
+print(f'Witaj, {full_name.title()}!')
+
+message = f'Witaj, {full_name.title()}!'
+print(message)
+
+full_name2 = '{} {}'.format(first_name, last_name.title())
+print(full_name2)
+
+print('Python')
+print('\tPython')
+
+print('Języki:\nPython\nC\nJavaScript')
+
+print('Języki:\n\tPython\n\tC\n\tJavaScript')
+
+favorite_language = 'python '
+print(favorite_language)
+favorite_language.rstrip()
+print(favorite_language)
+favorite_language = favorite_language.rstrip()
+print(favorite_language)
+
+
