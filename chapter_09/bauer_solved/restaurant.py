@@ -8,8 +8,8 @@ class Restaurant():
     def open_restaurant(self):
         print(f"{self.restaurant_name} operuje w godzinach 11:00 - 21:00")
 
-my_restaurant = Restaurant('My Thai', 'tajska')
-print(f"Nazwa restauracji: {my_restaurant.restaurant_name}")
-print(f"Typ kuchni: {my_restaurant.cuisine_type}")
-my_restaurant.describe_restaurant()
-my_restaurant.open_restaurant()
+# my_restaurant = Restaurant('My Thai', 'tajska')
+# print(f"Nazwa restauracji: {my_restaurant.restaurant_name}")
+# print(f"Typ kuchni: {my_restaurant.cuisine_type}")
+# my_restaurant.describe_restaurant()
+# my_restaurant.open_restaurant()
